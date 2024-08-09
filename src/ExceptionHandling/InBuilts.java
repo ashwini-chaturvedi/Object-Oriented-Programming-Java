@@ -37,7 +37,7 @@ public class InBuilts {
         //catch all the exceptions whether Arithmetic or any other...
 
     }
-    public static int divide(int a,int b) throws Exception{//Divide is static because it is outside the main method and if it was
+    public static int divide(int a,int b) throws Exception{//Divide is static because it is outside the Main method and if it was
         //not static we will need an object to access it but static members are object independent so
         if(b==0){
             throw new ArithmeticException("Don't Divide by Zero");
