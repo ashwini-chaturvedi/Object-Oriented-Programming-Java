@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5707084-9070-41ff-b7cd-ef4c00542204" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DSA/DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitJava/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/Basics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/Conditionals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/DSA/searching/Binary_Class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/Functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/Input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/Literals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/Loops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/MultiDimensional_Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/Question1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/Recursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/Recursions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/VarArgs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/com/Projects/Rock_Paper_Scissors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/com/ashwini/Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/com/patterns/Binary_Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/com/patterns/Butterfly_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/com/patterns/FloydsTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/com/patterns/Hollow_StarRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/com/patterns/Inverted_StarTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/com/patterns/NumberTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/com/patterns/Right_HalfPyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/com/patterns/Solid_Rhombus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/com/patterns/StarRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/com/patterns/StarTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/new_Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/print_FormattedOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git/git.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git/src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ad5K6VnJ107iydozEZ7fXhxPl0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Abstract_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Abstraction.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BigIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Casting.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Clonning.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComparingObjects.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor_in_java (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor_in_java (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor_in_java (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor_in_java.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructors (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructors (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructors (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructors (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dynamic_Method_Dispatch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsulation.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Enums.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise2 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise2 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.First_Class (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.First_Class (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.First_Class (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.First_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics.customArrayList.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inheritance (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inheritance_in_Interfaces (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inheritance_in_Interfaces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface_Example (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface_Example (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface_Example (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface_Example (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface_Example (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface_Example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interfaces.Vechile.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interfaces.Vehicle.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interfaces.extendsDemo.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interfaces.nestedInterface.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lambda.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lambda.withReturn.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaFunctions.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method_Overriding (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method_Overriding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Polymorphism.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticeQ1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticeQ1 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticeQ1 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticeQ1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticeQ2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticeQ2 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticeQ2 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticeQ2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shree_Ram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBufferClass.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basics (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.basics (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.basics (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.basics (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.basics (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.basics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dynamicMethodDispatch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.examples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.genericsPackages.customArrayList.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.importStatements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.manufacture.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.mat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.shallow_DeepCopy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.wrapperClasses.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.जय_श्री_राम.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ashwi/IdeaProjects/JAVA_DSA&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ashwi/IdeaProjects/JAVA_OOPs/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ashwi\IdeaProjects\JAVA_OOPs\src\Interfaces\nestedInterface" />
+      <recent name="C:\Users\ashwi\IdeaProjects\JAVA_OOPs\src\Interfaces\StaticInterfaceMethods" />
+      <recent name="C:\Users\ashwi\IdeaProjects\JAVA_OOPs\src\Interfaces\extendsDemo2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="genericsPackages.customArrayList" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Lambda.withReturn.Main">
+    <configuration name="Lambda.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.Main" />
+      <module name="JAVA_OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lambda.withReturn.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.withReturn.Main" />
+      <module name="JAVA_OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambda.withReturn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.Main" />
+      <module name="JAVA_OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.noReturn.Main" />
+      <module name="JAVA_OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambda.noReturn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.noReturn.Main" />
+      <module name="JAVA_OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambda.noReturn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.noReturn.Main" />
+      <module name="JAVA_OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambda.noReturn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.noReturn.Main" />
+      <module name="JAVA_OOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambda.noReturn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lambda.withReturn.Main" />
+        <item itemvalue="Application.Lambda.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-azul-20.0.2-249ae16d76d6-8f6f4fc2" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5707084-9070-41ff-b7cd-ef4c00542204" name="Changes" comment="" />
+      <created>1704635551422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704635551422</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Paths">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="dir:C:/Users/ashwi/OneDrive/Desktop/java codes" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/ashwi/OneDrive/Desktop/java codes" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Previous/First_Class.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/oop2/manufacture.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../DSA/src/Array/mat.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
