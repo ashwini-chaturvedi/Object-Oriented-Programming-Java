@@ -5,7 +5,442 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5707084-9070-41ff-b7cd-ef4c00542204" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DSA/DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DSA/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/All_Singly_LinkedList/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/All_Singly_LinkedList/Deleting_SinglyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Array/Generate_SpiralMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Array/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Array/Non_SquareMatrix_Rotate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Array/Non_SquareMatrix_Transpose.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Array/PascalsTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Array/Remove_Duplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Array/Rotate_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Array/Search_in_RotatedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Array/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Array/Spiral_Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Array/SquareMatrix_Rotate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Array/SquareMatrix_Transpose_Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Array/gaddi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Array/hi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Array/intervals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/ArrayList/ArrayList1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/ArrayList/ArrayList2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/All_Subsets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/CombinationSum_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/NDigitNumbersWithDigitsIn_IncreasingOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/N_Queens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/combinationSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/combinations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/hdf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/largestNumberIn_Kswaps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/letterTiles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/maximumScore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/non_DecreasingSubsequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/numOf_1_moreThanNumOf_0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/permutationOfString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/permutationSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/permutationWithSpaces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/phoneLetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/ratInAMaze.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/sudokuSolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Backtracking/wordSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/BinarySearch/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/BinarySearch/choclateProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Bit_Manipulation/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Bit_Manipulation/MissingAndDuplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Bit_Manipulation/codeNcode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Bit_Manipulation/s.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Bit_Manipulation/singleNumber_III.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Circular_LiinkedList/Doubly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Circular_LiinkedList/Singly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Arrays_Class/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Collection_Class/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Collection_Class/forStudentClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Collection_Class/student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/List_InterFace/ArrayLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/List_InterFace/Iterators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/List_InterFace/LinkedListClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/List_InterFace/Stacks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Map_Interface/HashMapImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Map_Interface/HashMap_Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Map_Interface/IntegertoRoman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Map_Interface/Largest_subarray_with_0_sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Map_Interface/TreeMap_Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Map_Interface/TreeMaps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Map_Interface/buyAndSell_Stocks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Map_Interface/example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Map_Interface/iohsdi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Map_Interface/validAnagrams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Queue_Interface/ArrayDEque.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Queue_Interface/Deque_Interface/ArrayDequeue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Queue_Interface/Deque_Interface/LinkedList_class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Queue_Interface/LinkedList_Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Queue_Interface/PriorityQueue1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Set_InterFace/Hashset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Set_InterFace/LinkedSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Set_InterFace/LongestConsecutiveElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Set_InterFace/TreeHashSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/CollectionFrameWork/Set_InterFace/numberOnTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Doubly_LinkedList/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Graphs/BreadthFirstSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Graphs/DepthFirstSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Graphs/DijkstraAlgorithm/cityProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Graphs/DijkstraAlgorithm/fgvoh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Graphs/DijkstraAlgorithm/minCost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Graphs/DijkstraAlgorithm/minHeapImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Graphs/DijkstraAlgorithm/setImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Graphs/DijkstraAlgorithm/shortestPathInWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Graphs/DisjointUnionSet/DSUBasics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Graphs/DisjointUnionSet/DSUusingRANKandPATHCOMPRESSION.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Graphs/MinimumSpanningTrees/PRIMsAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Graphs/TopologicalSort/topologicalSortBFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Graphs/TopologicalSort/topologicalSortDFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Graphs/allPathFromStoT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Graphs/biPartiteDFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Graphs/directedAdjacencyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Graphs/unDirectedAdjacencyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Heaps/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Heaps/forCustomClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Heaps/kClosest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Heaps/maxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Heaps/maxHeapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Heaps/minHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Heaps/minHeapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Heaps/sortByFrequency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Queue/ArrayImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Queue/BasicsCollections.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Queue/CircularQueue/ArrayImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Queue/CircularQueue/LinkedListImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Queue/CircularQueue/jnlk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Queue/DEqueue/ArrayImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Queue/DEqueue/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Queue/DEqueue/LinkedListImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Queue/IPO_MaxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Queue/LinkedListImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Queue/StackImplemntation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Queue/djj.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Queue/practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Queue/wetg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/PrintingN_numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/Recursion/AlternatePlusMiinus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/Recursion/FrogProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/Recursion/GCDIterative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/Recursion/LetterCombinationToKeypad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/Recursion/Printing1toN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/Recursion/RecursiveInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/Recursion/Strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/Recursion/Subsequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/Recursion/palindromeLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/Recursion/powerOfTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/Recursion/uitu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/Recursion/yhasdfyhu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/generateBalancedParanthesis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/josephusProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/printSubsets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/recursion_InStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/sortArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Recursion/subsets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/SlidingWindow/LeetCode_287.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/SlidingWindow/Leetcode_2024.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/SlidingWindow/MaxMinSumSubarray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/SlidingWindow/firstNegativeInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/SlidingWindow/longestContinuousSubarrayWithLengthLessThanEqualToLimit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Sorting/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Sorting/BucketSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Sorting/CountSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Sorting/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Sorting/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Sorting/QuickSelect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Sorting/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Sorting/RadixSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Sorting/RandomizedQuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Sorting/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Sorting/heapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Sorting/kjwdsg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Sorting/oisshoif.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/ArrayImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/InfixExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/InfixtoPostfix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/InfixtoPrefix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/LargestRectangle_inHistogram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/LinkedList_Implementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/PrefixtoPostFix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/UsingQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/ValidParenthesis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/decodeString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/ex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/fbgy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/iyhs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/nextGreaterElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/nextSmallerElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/postFixExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/prifixExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/removeDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/roihs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Stacks/tgjeh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Strings/Basics1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Strings/Basics2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Strings/Compress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Strings/Compressed_String.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Strings/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Strings/Palindrome1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Strings/Palindrome2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Strings/Reverse_EachWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Strings/StringBuilder_Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Strings/String_Builder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Strings/SubString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Strings/Tokens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Strings/efiuwh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Strings/first_last_Occurence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Strings/groupAnagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Strings/q.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Strings/reverserStringBetweenParenthesis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/HeightOfTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/Pre_In_Post_InOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/boundaryTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/checkForBalancedBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/diameterOfBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/ec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/ex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/hfd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/inOrderTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/levelOrderTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/maxWidthOfBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/pathByPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/postOrderTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/preOrderTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/pruningBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/rightSideView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/rootToNodePath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/serializeDeserialize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/topViewOfBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/Trees/verticalOrderTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/All_Singly_LinkedList/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/All_Singly_LinkedList/Deleting_SinglyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Array/Generate_SpiralMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Array/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Array/Non_SquareMatrix_Rotate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Array/Non_SquareMatrix_Transpose.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Array/PascalsTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Array/Remove_Duplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Array/Rotate_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Array/Search_in_RotatedArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Array/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Array/Spiral_Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Array/SquareMatrix_Rotate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Array/SquareMatrix_Transpose_Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Array/gaddi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Array/hi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Array/intervals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/ArrayList/ArrayList1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/ArrayList/ArrayList2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/All_Subsets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/CombinationSum_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/NDigitNumbersWithDigitsIn_IncreasingOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/N_Queens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/combinationSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/combinations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/hdf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/largestNumberIn_Kswaps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/letterTiles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/maximumScore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/non_DecreasingSubsequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/numOf_1_moreThanNumOf_0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/permutationOfString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/permutationSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/permutationWithSpaces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/phoneLetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/ratInAMaze.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/sudokuSolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Backtracking/wordSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/BinarySearch/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/BinarySearch/choclateProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Bit_Manipulation/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Bit_Manipulation/MissingAndDuplicate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Bit_Manipulation/codeNcode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Bit_Manipulation/s.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Bit_Manipulation/singleNumber_III.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Circular_LiinkedList/Doubly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Circular_LiinkedList/Singly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Arrays_Class/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Collection_Class/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Collection_Class/forStudentClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Collection_Class/student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/List_InterFace/ArrayLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/List_InterFace/Iterators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/List_InterFace/LinkedListClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/List_InterFace/Stacks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Map_Interface/HashMapImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Map_Interface/HashMap_Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Map_Interface/IntegertoRoman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Map_Interface/Largest_subarray_with_0_sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Map_Interface/TreeMap_Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Map_Interface/TreeMaps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Map_Interface/buyAndSell_Stocks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Map_Interface/example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Map_Interface/iohsdi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Map_Interface/validAnagrams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Queue_Interface/ArrayDEque.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Queue_Interface/Deque_Interface/ArrayDequeue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Queue_Interface/Deque_Interface/LinkedList_class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Queue_Interface/LinkedList_Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Queue_Interface/PriorityQueue1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Set_InterFace/Hashset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Set_InterFace/LinkedSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Set_InterFace/LongestConsecutiveElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Set_InterFace/TreeHashSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/CollectionFrameWork/Set_InterFace/numberOnTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Doubly_LinkedList/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Graphs/BreadthFirstSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Graphs/DepthFirstSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Graphs/DijkstraAlgorithm/cityProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Graphs/DijkstraAlgorithm/fgvoh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Graphs/DijkstraAlgorithm/minCost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Graphs/DijkstraAlgorithm/minHeapImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Graphs/DijkstraAlgorithm/setImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Graphs/DijkstraAlgorithm/shortestPathInWeightedGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Graphs/DisjointUnionSet/DSUBasics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Graphs/DisjointUnionSet/DSUusingRANKandPATHCOMPRESSION.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Graphs/MinimumSpanningTrees/PRIMsAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Graphs/TopologicalSort/topologicalSortBFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Graphs/TopologicalSort/topologicalSortDFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Graphs/allPathFromStoT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Graphs/biPartiteDFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Graphs/directedAdjacencyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Graphs/unDirectedAdjacencyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Heaps/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Heaps/forCustomClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Heaps/kClosest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Heaps/maxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Heaps/maxHeapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Heaps/minHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Heaps/minHeapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Heaps/sortByFrequency.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Queue/ArrayImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Queue/BasicsCollections.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Queue/CircularQueue/ArrayImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Queue/CircularQueue/LinkedListImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Queue/CircularQueue/jnlk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Queue/DEqueue/ArrayImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Queue/DEqueue/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Queue/DEqueue/LinkedListImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Queue/IPO_MaxHeap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Queue/LinkedListImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Queue/StackImplemntation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Queue/djj.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Queue/practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Queue/wetg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/PrintingN_numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/Recursion/AlternatePlusMiinus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/Recursion/FrogProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/Recursion/GCDIterative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/Recursion/LetterCombinationToKeypad.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/Recursion/Printing1toN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/Recursion/RecursiveInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/Recursion/Strings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/Recursion/Subsequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/Recursion/palindromeLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/Recursion/powerOfTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/Recursion/uitu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/Recursion/yhasdfyhu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/generateBalancedParanthesis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/josephusProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/printSubsets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/recursion_InStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/sortArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Recursion/subsets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/SlidingWindow/LeetCode_287.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/SlidingWindow/Leetcode_2024.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/SlidingWindow/MaxMinSumSubarray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/SlidingWindow/firstNegativeInteger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/SlidingWindow/longestContinuousSubarrayWithLengthLessThanEqualToLimit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Sorting/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Sorting/BucketSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Sorting/CountSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Sorting/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Sorting/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Sorting/QuickSelect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Sorting/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Sorting/RadixSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Sorting/RandomizedQuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Sorting/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Sorting/heapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Sorting/kjwdsg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Sorting/oisshoif.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/ArrayImplementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/InfixExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/InfixtoPostfix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/InfixtoPrefix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/LargestRectangle_inHistogram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/LinkedList_Implementation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/PrefixtoPostFix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/UsingQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/ValidParenthesis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/decodeString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/ex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/fbgy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/iyhs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/nextGreaterElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/nextSmallerElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/postFixExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/prifixExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/removeDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/roihs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Stacks/tgjeh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Strings/Basics1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Strings/Basics2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Strings/Compress.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Strings/Compressed_String.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Strings/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Strings/Palindrome1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Strings/Palindrome2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Strings/Reverse_EachWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Strings/StringBuilder_Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Strings/String_Builder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Strings/SubString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Strings/Tokens.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Strings/efiuwh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Strings/first_last_Occurence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Strings/groupAnagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Strings/q.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Strings/reverserStringBetweenParenthesis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/Basics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/HeightOfTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/Pre_In_Post_InOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/boundaryTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/checkForBalancedBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/diameterOfBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/ec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/ex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/hfd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/inOrderTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/levelOrderTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/maxWidthOfBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/pathByPath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/postOrderTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/preOrderTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/pruningBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/rightSideView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/rootToNodePath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/serializeDeserialize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/topViewOfBinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DSA/src/src/src/Trees/verticalOrderTraversal.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Data-Structures-Algorithm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../GitJava/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JAVA/.idea/vcs.xml" beforeDir="false" />
@@ -40,6 +475,7 @@
       <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/new_Table.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/print_FormattedOutput.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_OOPs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_OOPs.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../git/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../git/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../git/.idea/misc.xml" beforeDir="false" />
@@ -68,7 +504,7 @@
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -81,95 +517,101 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Abstract_Class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Abstraction.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BigIntegers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Casting.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Clonning.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ComparingObjects.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructor_in_java (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructor_in_java (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructor_in_java (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructor_in_java.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructors (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructors (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructors (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructors (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Constructors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dynamic_Method_Dispatch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Encapsulation.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Enums.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise2 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise2 (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.First_Class (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.First_Class (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.First_Class (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.First_Class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Generics.customArrayList.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inheritance (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inheritance_in_Interfaces (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inheritance_in_Interfaces.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interface_Example (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interface_Example (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interface_Example (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interface_Example (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interface_Example (5).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interface_Example.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interfaces.Vechile.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interfaces.Vehicle.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interfaces.extendsDemo.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interfaces.nestedInterface.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lambda.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lambda.withReturn.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LambdaFunctions.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method_Overriding (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method_Overriding.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Polymorphism.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PracticeQ1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.PracticeQ1 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.PracticeQ1 (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.PracticeQ1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PracticeQ2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.PracticeQ2 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.PracticeQ2 (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.PracticeQ2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Shree_Ram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringBufferClass.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.basics (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.basics (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.basics (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.basics (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.basics (5).executor&quot;: &quot;Run&quot;,
-    &quot;Application.basics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.dynamicMethodDispatch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.examples.executor&quot;: &quot;Run&quot;,
-    &quot;Application.fs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.genericsPackages.customArrayList.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.importStatements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.manufacture.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.mat.executor&quot;: &quot;Run&quot;,
-    &quot;Application.shallow_DeepCopy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.wrapperClasses.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.जय_श्री_राम.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ashwi/IdeaProjects/JAVA_DSA&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ashwi/IdeaProjects/JAVA_OOPs/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Abstract_Class.executor": "Run",
+    "Application.Abstraction.Main.executor": "Run",
+    "Application.BigIntegers.executor": "Run",
+    "Application.Casting.Main.executor": "Run",
+    "Application.Clonning.Main.executor": "Run",
+    "Application.ComparingObjects.Main.executor": "Run",
+    "Application.Constructor_in_java (1).executor": "Run",
+    "Application.Constructor_in_java (2).executor": "Run",
+    "Application.Constructor_in_java (3).executor": "Run",
+    "Application.Constructor_in_java.executor": "Run",
+    "Application.Constructors (1).executor": "Run",
+    "Application.Constructors (2).executor": "Run",
+    "Application.Constructors (3).executor": "Run",
+    "Application.Constructors (4).executor": "Run",
+    "Application.Constructors.executor": "Run",
+    "Application.Dynamic_Method_Dispatch.executor": "Run",
+    "Application.Encapsulation.Main.executor": "Run",
+    "Application.Enums.Main.executor": "Run",
+    "Application.Exercise2 (1).executor": "Run",
+    "Application.Exercise2 (2).executor": "Run",
+    "Application.Exercise2 (3).executor": "Run",
+    "Application.Exercise2.executor": "Run",
+    "Application.First_Class (1).executor": "Run",
+    "Application.First_Class (2).executor": "Run",
+    "Application.First_Class (3).executor": "Run",
+    "Application.First_Class.executor": "Run",
+    "Application.Generics.customArrayList.Main.executor": "Run",
+    "Application.Inheritance (1).executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.Inheritance_in_Interfaces (1).executor": "Run",
+    "Application.Inheritance_in_Interfaces.executor": "Run",
+    "Application.Interface_Example (1).executor": "Run",
+    "Application.Interface_Example (2).executor": "Run",
+    "Application.Interface_Example (3).executor": "Run",
+    "Application.Interface_Example (4).executor": "Run",
+    "Application.Interface_Example (5).executor": "Run",
+    "Application.Interface_Example.executor": "Run",
+    "Application.Interfaces.Cars.Main.executor": "Debug",
+    "Application.Interfaces.Vechile.Main.executor": "Run",
+    "Application.Interfaces.Vehicle.Main.executor": "Run",
+    "Application.Interfaces.extendsDemo.Main.executor": "Run",
+    "Application.Interfaces.nestedInterface.Main.executor": "Run",
+    "Application.Lambda.Main.executor": "Run",
+    "Application.Lambda.withReturn.Main (1).executor": "Run",
+    "Application.Lambda.withReturn.Main.executor": "Run",
+    "Application.LambdaFunctions.Main.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Method_Overriding (1).executor": "Run",
+    "Application.Method_Overriding.executor": "Run",
+    "Application.Polymorphism.Main.executor": "Run",
+    "Application.Practice.executor": "Run",
+    "Application.PracticeQ1 (1).executor": "Run",
+    "Application.PracticeQ1 (2).executor": "Run",
+    "Application.PracticeQ1 (3).executor": "Run",
+    "Application.PracticeQ1.executor": "Run",
+    "Application.PracticeQ2 (1).executor": "Run",
+    "Application.PracticeQ2 (2).executor": "Run",
+    "Application.PracticeQ2 (3).executor": "Run",
+    "Application.PracticeQ2.executor": "Run",
+    "Application.Shree_Ram.executor": "Run",
+    "Application.StringBufferClass.Main.executor": "Run",
+    "Application.basics (1).executor": "Run",
+    "Application.basics (2).executor": "Run",
+    "Application.basics (3).executor": "Run",
+    "Application.basics (4).executor": "Run",
+    "Application.basics (5).executor": "Run",
+    "Application.basics.executor": "Run",
+    "Application.dynamicMethodDispatch.executor": "Run",
+    "Application.examples.executor": "Run",
+    "Application.fs.executor": "Run",
+    "Application.genericsPackages.customArrayList.Main.executor": "Run",
+    "Application.importStatements.executor": "Run",
+    "Application.manufacture.executor": "Debug",
+    "Application.mat.executor": "Run",
+    "Application.shallow_DeepCopy.executor": "Run",
+    "Application.wrapperClasses.Main.executor": "Run",
+    "Application.जय_श्री_राम.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ashwi/IdeaProjects/JAVA_OOPs/src/Lambda/withReturn",
+    "onboarding.tips.debug.path": "C:/Users/ashwi/IdeaProjects/JAVA_OOPs/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ashwi\IdeaProjects\JAVA_OOPs\src\Interfaces\nestedInterface" />
@@ -180,13 +622,28 @@
       <recent name="genericsPackages.customArrayList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lambda.withReturn.Main">
-    <configuration name="Lambda.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambda.Main" />
+  <component name="RunManager" selected="Application.Interfaces.Cars.Main">
+    <configuration name="AnnotatedMemoryPanel" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-20" />
+      <option name="MAIN_CLASS_NAME" value="sun.jvm.hotspot.ui.AnnotatedMemoryPanel" />
+      <module name="JAVA_OOPs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Lambda/withReturn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambda.withReturn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Interfaces.Cars.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaces.Cars.Main" />
       <module name="JAVA_OOPs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lambda.*" />
+          <option name="PATTERN" value="Interfaces.Cars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,6 +652,7 @@
       </method>
     </configuration>
     <configuration name="Lambda.withReturn.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="20" />
       <option name="MAIN_CLASS_NAME" value="Lambda.withReturn.Main" />
       <module name="JAVA_OOPs" />
       <extension name="coverage">
@@ -207,19 +665,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambda.Main" />
-      <module name="JAVA_OOPs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lambda.noReturn.Main" />
       <module name="JAVA_OOPs" />
@@ -259,25 +704,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lambda.noReturn.Main" />
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="20" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="JAVA_OOPs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lambda.noReturn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.AnnotatedMemoryPanel" />
+      <item itemvalue="Application.Interfaces.Cars.Main" />
+      <item itemvalue="Application.Lambda.withReturn.Main" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Interfaces.Cars.Main" />
         <item itemvalue="Application.Lambda.withReturn.Main" />
-        <item itemvalue="Application.Lambda.Main" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -337,6 +780,9 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -357,5 +803,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JAVA_OOPs$Main.ic" NAME="Main Coverage Results" MODIFIED="1723207436154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Lambda.withReturn.*</FILTER>
+    </SUITE>
   </component>
 </project>
