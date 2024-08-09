@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DSA/DSA.iml" afterDir="false" />
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/JAVA_OOPs/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JAVA_OOPs/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JAVA_OOPs/.idea/misc.xml" afterDir="false" />
@@ -117,6 +118,8 @@
       <change afterPath="$PROJECT_DIR$/../ObjectOrientedPrograming/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ObjectOrientedPrograming/Object-Oriented-Programming-Java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ObjectOrientedPrograming/src/Main.java" afterDir="false" />
+=======
+>>>>>>> a2889011f38bc6b519a11166d661d7d127056fa0
       <change beforePath="$PROJECT_DIR$/../DSA/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DSA/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DSA/src/src/All_Singly_LinkedList/Basics.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../DSA/src/src/All_Singly_LinkedList/Deleting_SinglyLinkedList.java" beforeDir="false" />
@@ -584,6 +587,10 @@
       <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/new_Table.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../JAVA/out/production/JAVA_Basics/print_FormattedOutput.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/JAVA_OOPs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_OOPs.iml" afterDir="false" />
+>>>>>>> a2889011f38bc6b519a11166d661d7d127056fa0
       <change beforePath="$PROJECT_DIR$/../git/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../git/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../git/.idea/misc.xml" beforeDir="false" />
@@ -625,6 +632,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
@@ -720,6 +728,103 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Abstract_Class.executor": "Run",
+    "Application.Abstraction.Main.executor": "Run",
+    "Application.BigIntegers.executor": "Run",
+    "Application.Casting.Main.executor": "Run",
+    "Application.Clonning.Main.executor": "Run",
+    "Application.ComparingObjects.Main.executor": "Run",
+    "Application.Constructor_in_java (1).executor": "Run",
+    "Application.Constructor_in_java (2).executor": "Run",
+    "Application.Constructor_in_java (3).executor": "Run",
+    "Application.Constructor_in_java.executor": "Run",
+    "Application.Constructors (1).executor": "Run",
+    "Application.Constructors (2).executor": "Run",
+    "Application.Constructors (3).executor": "Run",
+    "Application.Constructors (4).executor": "Run",
+    "Application.Constructors.executor": "Run",
+    "Application.Dynamic_Method_Dispatch.executor": "Run",
+    "Application.Encapsulation.Main.executor": "Run",
+    "Application.Enums.Main.executor": "Run",
+    "Application.Exercise2 (1).executor": "Run",
+    "Application.Exercise2 (2).executor": "Run",
+    "Application.Exercise2 (3).executor": "Run",
+    "Application.Exercise2.executor": "Run",
+    "Application.First_Class (1).executor": "Run",
+    "Application.First_Class (2).executor": "Run",
+    "Application.First_Class (3).executor": "Run",
+    "Application.First_Class.executor": "Run",
+    "Application.Generics.customArrayList.Main.executor": "Run",
+    "Application.Inheritance (1).executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.Inheritance_in_Interfaces (1).executor": "Run",
+    "Application.Inheritance_in_Interfaces.executor": "Run",
+    "Application.Interface_Example (1).executor": "Run",
+    "Application.Interface_Example (2).executor": "Run",
+    "Application.Interface_Example (3).executor": "Run",
+    "Application.Interface_Example (4).executor": "Run",
+    "Application.Interface_Example (5).executor": "Run",
+    "Application.Interface_Example.executor": "Run",
+    "Application.Interfaces.Cars.Main.executor": "Debug",
+    "Application.Interfaces.Vechile.Main.executor": "Run",
+    "Application.Interfaces.Vehicle.Main.executor": "Run",
+    "Application.Interfaces.extendsDemo.Main.executor": "Run",
+    "Application.Interfaces.nestedInterface.Main.executor": "Run",
+    "Application.Lambda.Main.executor": "Run",
+    "Application.Lambda.withReturn.Main (1).executor": "Run",
+    "Application.Lambda.withReturn.Main.executor": "Run",
+    "Application.LambdaFunctions.Main.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Method_Overriding (1).executor": "Run",
+    "Application.Method_Overriding.executor": "Run",
+    "Application.Polymorphism.Main.executor": "Run",
+    "Application.Practice.executor": "Run",
+    "Application.PracticeQ1 (1).executor": "Run",
+    "Application.PracticeQ1 (2).executor": "Run",
+    "Application.PracticeQ1 (3).executor": "Run",
+    "Application.PracticeQ1.executor": "Run",
+    "Application.PracticeQ2 (1).executor": "Run",
+    "Application.PracticeQ2 (2).executor": "Run",
+    "Application.PracticeQ2 (3).executor": "Run",
+    "Application.PracticeQ2.executor": "Run",
+    "Application.Shree_Ram.executor": "Run",
+    "Application.StringBufferClass.Main.executor": "Run",
+    "Application.basics (1).executor": "Run",
+    "Application.basics (2).executor": "Run",
+    "Application.basics (3).executor": "Run",
+    "Application.basics (4).executor": "Run",
+    "Application.basics (5).executor": "Run",
+    "Application.basics.executor": "Run",
+    "Application.dynamicMethodDispatch.executor": "Run",
+    "Application.examples.executor": "Run",
+    "Application.fs.executor": "Run",
+    "Application.genericsPackages.customArrayList.Main.executor": "Run",
+    "Application.importStatements.executor": "Run",
+    "Application.manufacture.executor": "Debug",
+    "Application.mat.executor": "Run",
+    "Application.shallow_DeepCopy.executor": "Run",
+    "Application.wrapperClasses.Main.executor": "Run",
+    "Application.जय_श्री_राम.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ashwi/IdeaProjects/JAVA_OOPs/src/Lambda/withReturn",
+    "onboarding.tips.debug.path": "C:/Users/ashwi/IdeaProjects/JAVA_OOPs/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+>>>>>>> a2889011f38bc6b519a11166d661d7d127056fa0
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ashwi\IdeaProjects\JAVA_OOPs\src\Interfaces\nestedInterface" />
@@ -730,7 +835,11 @@
       <recent name="genericsPackages.customArrayList" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Main">
+=======
+  <component name="RunManager" selected="Application.Interfaces.Cars.Main">
+>>>>>>> a2889011f38bc6b519a11166d661d7d127056fa0
     <configuration name="AnnotatedMemoryPanel" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-20" />
       <option name="MAIN_CLASS_NAME" value="sun.jvm.hotspot.ui.AnnotatedMemoryPanel" />
@@ -759,9 +868,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+=======
+    <configuration name="Lambda.withReturn.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="20" />
+>>>>>>> a2889011f38bc6b519a11166d661d7d127056fa0
       <option name="MAIN_CLASS_NAME" value="Lambda.withReturn.Main" />
       <module name="JAVA_OOPs" />
       <extension name="coverage">
@@ -824,12 +938,21 @@
     <list>
       <item itemvalue="Application.AnnotatedMemoryPanel" />
       <item itemvalue="Application.Interfaces.Cars.Main" />
+<<<<<<< HEAD
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Interfaces.Cars.Main" />
+=======
+      <item itemvalue="Application.Lambda.withReturn.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Interfaces.Cars.Main" />
+        <item itemvalue="Application.Lambda.withReturn.Main" />
+>>>>>>> a2889011f38bc6b519a11166d661d7d127056fa0
       </list>
     </recent_temporary>
   </component>
