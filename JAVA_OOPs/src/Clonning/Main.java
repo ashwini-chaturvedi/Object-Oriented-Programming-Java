@@ -9,7 +9,7 @@ public class Main {
 //        Human twins=new Human(p1);//this will take memory as well as time to make a clone we can use cloneable interface
 
         //@** 1st way...
-        // we can use below way ,or we can use throws in Main function
+        // we can use below way ,or we can use throws in main function
         // Human twin;
 //        try{
 //            twin=(Human)p1.clone();

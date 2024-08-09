@@ -6,7 +6,7 @@ abstract class Pen{
 }
 class Fountain_Pen extends Pen{
     public void write(){
-        System.out.println("lambdaInterface am Writing");
+        System.out.println("I am Writing");
     }
     public void refill(){
         System.out.println("Refilling the Previous.Pen");
